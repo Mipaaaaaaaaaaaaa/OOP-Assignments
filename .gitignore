@@ -1,0 +1,15 @@
+
+*.xcscheme
+*.pbxproj
+*.xcworkspacedata
+HW9/.DS_Store
+*.xcuserstate
+*.plist
+*.xcbkptlist
+HW4/.DS_Store
+HW3/.DS_Store
+HW2/.DS_Store
+Hw1/.DS_Store
+Assignment6#t3/.DS_Store
+.DS_Store
+*.c
